@@ -2,31 +2,29 @@
 <h3 align="center">Student at 42 Paris</h3>
 
 ```zsh
-> neofetch
+> fastfetch
 ```
 
 ```lua
-..............                               
-            ..,;:ccc,.                             Contact: tbhuiyan@student.42.fr 
-          ......''';lxO.                           ---------------------
-.....''''..........,:ld;                           Learning: ASM, Three.js, Rust
-           .';;;:::;,,.x,                          Languages: C, C++, Python
-      ..'''.            0Xxoc:,.  ...              Tools: Docker, Burp Suite, Ghidra, Kubernetes
-  ....                ,ONkc;,;cokOdc',.            Pentest: Web, Blockchain, iOS
- .                   OMo           ':ddo.          
-                    dMc               :OO;         
-                    0M.                 .:o.       OS: Arch Linux / MacOS
-                    ;                              Terminal: WezTerm
-                     ;XO,                          IDE: NeoVim / VSCode
-                       ,d0Odlc;,..
-                           ..',;:cdOOd::,.
-                                    .:d;.':;.
-                                       'd,  .'
-                                         ;l   ..
-                                          .o
-                                            c
-                                            .'
-                                             .
+                   -`                               
+                  .o+`                              Contact: tbhuiyan@student.42.fr 
+                 `ooo/                              ---------------------
+                `+oooo:                             Learning: ASM, Three.js, Rust
+               `+oooooo:                            Languages: C, C++, Python
+               -+oooooo+:                           Tools: Docker, Burp Suite, Ghidra, Kubernetes
+             `/:-:++oooo+:                          Pentest: Web, Blockchain, iOS
+            `/++++/+++++++:                         
+           `/++++++++++++++:                        
+          `/+++ooooooooooooo/`                      OS: Arch Linux / MacOS
+         ./ooosssso++osssssso+`                     Terminal: Alacritty
+        .oossssso-````/ossssss+`                    IDE: NeoVim / VSCode
+       -osssssso.      :ssssssso.
+      :osssssss/        osssso+++.
+     /ossssssss/        +ssssooo/-
+   `/ossssso+/:-        -:/+osssso+-
+  `+sso+:-`                 `.-/+oso:
+ `++:.                           `-/+/
+ .`                                 `/
 ```
 
 <p align="left">
