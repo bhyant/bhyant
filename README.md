@@ -16,7 +16,7 @@
             `/++++/+++++++:                         
            `/++++++++++++++:                        
           `/+++ooooooooooooo/`                      OS: Arch Linux / MacOS
-         ./ooosssso++osssssso+`                     Terminal: Alacritty
+         ./ooosssso++osssssso+`                     Terminal: Kitty
         .oossssso-````/ossssss+`                    IDE: NeoVim / VSCode
        -osssssso.      :ssssssso.
       :osssssss/        osssso+++.
