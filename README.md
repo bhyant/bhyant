@@ -11,7 +11,7 @@
                  `ooo/                              ---------------------
                 `+oooo:                             Learning: ASM, Three.js, Rust
                `+oooooo:                            Languages: C, C++, Python
-               -+oooooo+:                           Tools: Docker, Burp Suite, Ghidra, Kubernetes
+               -+oooooo+:                           Tools: Docker, Kubernetes
              `/:-:++oooo+:                          Pentest: Web, Blockchain, iOS
             `/++++/+++++++:                         
            `/++++++++++++++:                        
